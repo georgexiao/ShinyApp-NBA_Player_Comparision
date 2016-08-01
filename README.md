@@ -9,3 +9,5 @@ In this app, you can:
  - Download source data and chart
 
 Please find the app on shinyApp io: https://georgexiao.shinyapps.io/NBA_Player_Comparison/
+
+Rpub presentation: http://rpubs.com/GeorgeXiao/NBA_PLAYER
